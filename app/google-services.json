@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383889467636",
+    "firebase_url": "https://uploadgambar-5e66e.firebaseio.com",
+    "project_id": "uploadgambar-5e66e",
+    "storage_bucket": "uploadgambar-5e66e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383889467636:android:6f81936e03da91f95d96a1",
+        "android_client_info": {
+          "package_name": "idn.badar.aplikasitodogambar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383889467636-c8bubqbd6ltl9kq2j1aqf3dqoke749fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idn.badar.aplikasitodogambar",
+            "certificate_hash": "d7f046eb682cc86848bf445d0718643b7901eaaf"
+          }
+        },
+        {
+          "client_id": "383889467636-4c20l17j2klehcgm8lg6m359ftb6fm0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBylYgdOWF2KEFs1lT1wdfsT8w7xh0n0Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383889467636-4c20l17j2klehcgm8lg6m359ftb6fm0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
